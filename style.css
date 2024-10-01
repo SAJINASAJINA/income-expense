@@ -1,0 +1,29 @@
+body{
+    background-color: lightcoral;
+
+}
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+input[type='number']
+{
+    width: 95%;
+    padding: 15px 20px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+button{
+    background: green;
+    color: white;
+    padding: 15px 40px;
+    margin: 10px 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover{
+    background: lawngreen;
+}
